@@ -1,0 +1,26 @@
+This is the new fps unlock method
+No requirements needed just a simple json file 
+
+Step 1.
+Do Win + R then type out %appdata%
+
+Step 2. 
+Go to local then click on Roblox file
+
+Step 3. 
+Click on versions and find where "robloxPlayerbeta.exe is located
+
+Step 4.
+Once you see "RobloxPlayerBeta.exe" Make an Folder called ClientSettings
+
+Step 5. 
+Download  The json file https://cdn.discordapp.com/attachments/1129255912654249994/1151780522897453076/ClientAppSettings.json
+
+Step 6.
+Drag the json file to the ClientSettings Folder that you made
+
+Step 7.
+Go inside of the json file then put the amount of fps you want
+
+Step 8.
+Save the file then go on roblox then your finished
